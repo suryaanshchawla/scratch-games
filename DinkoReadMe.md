@@ -7,7 +7,7 @@ This is the New version of the Game named "Dinko"
     <li>User Friendly</li>
 </ul>
 
-# Running this and other scratch subjects of mine.
+# Running this and other scratch projects of mine.
 <h2>Method-1</h2>
 <ol>
     <li>Download Scratch from Scratch Website
